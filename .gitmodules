@@ -1,0 +1,6 @@
+[submodule "mycontacts-frontend"]
+	path = mycontacts-frontend
+	url = https://github.com/silvavitor/mycontacts-frontend.git
+[submodule "my-contacts-api"]
+	path = my-contacts-api
+	url = https://github.com/silvavitor/my-contacts-api.git
