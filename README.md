@@ -4,7 +4,6 @@
   
   ![logo](https://github.com/silvavitor/my-contacts/assets/49764464/94dea70c-2e30-456c-ad83-52c961d2b812)
   
-  A web app that uses machine learning to detect people faces.
   <br /><br />
 </div>
 
