@@ -10,7 +10,8 @@
 
 ## :mag_right: About the project
 <br/>
-It's a full-stack project that aims to organize your contacts and categorize them 
+
+Full-stack project to organize contacts and their categories. It was developed with as few packages as possible, features such as: form validations, toast messages, modals, animations and an HTTP client were created. 
 
 The development of this project was guided by the [JStack](https://jstack.com.br/) course
 
