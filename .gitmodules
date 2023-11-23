@@ -4,3 +4,6 @@
 [submodule "my-contacts-api"]
 	path = my-contacts-api
 	url = https://github.com/silvavitor/my-contacts-api.git
+[submodule "my-contacts-api-nest"]
+	path = my-contacts-api-nest
+	url = https://github.com/silvavitor/my-contacts-api-nest
